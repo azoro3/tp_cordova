@@ -1,0 +1,1 @@
+//TODO ajouter le JS pour le plugin de localisation
